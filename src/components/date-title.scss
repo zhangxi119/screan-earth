@@ -1,0 +1,10 @@
+$date-title-color:rgba(255,255,255,0.8);
+$date-title-size:.12rem;
+/* 一二级标题高亮 */
+.hover-color{
+  z-index: 2;
+  &:hover {
+    color: #ffed66 !important;
+    box-shadow: 0 0 10px rgba(228,205,38,0.28);
+  }
+}

@@ -1,0 +1,49 @@
+/*事件处理开始*/
+.left-center-echarts {
+  .body-item-box{
+    margin-left: 3%;
+    margin-right: 2%;
+    margin-top: 0.23rem;
+    width: 45%;
+}
+.body-item-title{
+    font-size: 0.18rem;
+    color: #FFFFFF;
+    letter-spacing: 0.01rem;
+    font-weight: 300;
+}
+.body-item-bottom{
+    height: 0.24rem;
+    line-height: 0.24rem;
+    margin-top: 0;
+    display: flex;
+    flex-direction: row;
+}
+.body-item-bottom-line{
+    float: left;
+    height: 100%;
+    width: 75%;
+}
+.body-item-line-box{
+    width: 0.08rem;
+    height: 0.14rem;
+    float: left;
+    margin-right: 0.02rem;
+    margin-top: 0.08rem;
+    background: rgba(65,158,255,0.3);
+}
+.temp{
+    background-color: #4D8EEB;
+}
+
+.body-item-percent{
+    flex: 1;
+    text-align: left;
+    margin-top: 0.04rem;
+    text-align: left;
+    float: right;
+    font-family: PingFangSC-Regular;
+    font-size: 0.15rem;
+    color: #36D6FE;
+}  
+}

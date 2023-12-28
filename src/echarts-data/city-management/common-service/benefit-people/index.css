@@ -1,0 +1,44 @@
+/*事件处理开始*/
+.body-item-box{
+  float: left;
+  margin-left: 0.22rem;
+  /* margin-top: 0.1rem; */
+  margin-top: 0;
+}
+.body-item-title{
+  font-size: 0.18rem;
+  color: #FFFFFF;
+  letter-spacing: 0.01rem;
+  font-weight: 300;
+}
+.body-item-bottom{
+  height: 0.24rem;
+  line-height: 0.24rem;
+  margin-top: 0;
+}
+.body-item-bottom-line{
+  float: left;
+  height: 100%
+}
+.body-item-line-box{
+  width: 0.08rem;
+  height: 0.14rem;
+  float: left;
+  margin-right: 0.02rem;
+  margin-top: 0.08rem;
+  background: rgba(65,158,255,0.3);
+}
+.temp{
+  background-color: #4D8EEB;
+}
+
+.body-item-percent{
+  margin-left: 0.05rem;
+    margin-top: 0.04rem;
+    text-align: left;
+    float: right;
+    font-family: PingFangSC-Regular;
+    font-size: 0.14rem;
+    width: 0.6rem;
+    color: #ABEEF5;
+}  
